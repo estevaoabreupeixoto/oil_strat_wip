@@ -1,5 +1,5 @@
 # ========================
-# 1. API Keys & Secrets (CRITICAL)
+# 1. API Keys
 # ========================
 google_key.json
 *.env
@@ -20,6 +20,6 @@ venv/
 env/
 
 # ========================
-# 4. Mac OS Junk Files
+# 4. Junk Files
 # ========================
 .DS_Store
